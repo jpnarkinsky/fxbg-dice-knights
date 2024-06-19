@@ -1,0 +1,5 @@
+title: Fredericksburg Dice Knights
+baseurl: ""
+sass:
+  sass_dir: _sass
+  style: compressed
